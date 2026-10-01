@@ -1,0 +1,3 @@
+- Revenue is concentrated in top categories
+- 20% customers generate majority revenue
+- Sales are seasonal
